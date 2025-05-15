@@ -1,4 +1,4 @@
-#Daily Tracker
+# Daily Tracker
 
 This tracker allows users to create accounts for tracking certain goals - add items to future calendar days to check them off. Visit the completed section to view tasks finished, and check out the upcoming tasks in its section.
 

@@ -1,0 +1,1 @@
+//a user has a username, password, email, number of events completed (display), number of events yet to finish (hide)
